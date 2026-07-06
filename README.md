@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Siddharth Tomar
 
-<!--
-**siddharthtomar150-bit/siddharthtomar150-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning C++ & Data Structures & Algorithms
+- 💻 Solving the Striver A2Z DSA Sheet
+- 🔥 Maintaining daily GitHub commits
+- 🌍 Exploring Git, GitHub & Open Source
+- 🎯 Goal: Become a Software Engineer at Google
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- C++
+- Git
+- GitHub
+- Data Structures & Algorithms
+
+---
+
+## 📚 Current Learning
+
+- ✅ Patterns
+- 🔄 Basics
+- 🔄 Mathematics
+- 🔄 Recursion
+- 🔄 Arrays
+- 🔄 Binary Search
+
+---
+
+## 📫 Contact
+
+- 📧 Email: siddharthtomar150@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
