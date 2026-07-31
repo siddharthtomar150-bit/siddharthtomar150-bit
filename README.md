@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=siddharthtomar150-bit&show_icons=true&theme=tokyonight)
