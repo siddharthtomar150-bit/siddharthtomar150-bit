@@ -12,7 +12,7 @@
 - 💻 Learning DSA in C++
 - 🌱 Learning Git & GitHub
 - 🎯 Goal: Software Engineer
-- ❤️ Dream Company: Google
+  
 
 ---
 
@@ -33,7 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthtomar150-bit&layout=compact&theme=tokyonight)
 
 ---
-
 ### ✨ Quote
 
 > "Consistency beats talent."
